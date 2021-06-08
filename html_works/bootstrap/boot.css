@@ -1,0 +1,22 @@
+body{
+    height:100%;
+    font-size: 1rem;
+}
+.page-header-gradient{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,46,1) 3%, rgba(0,212,255,1) 100%);
+margin-top: 110px;
+font-size: 1.25rem;
+color: azure;
+
+
+
+}
+.img{
+    position: absolute;
+    left:1010px;
+}
+.para{
+   position: relative;
+   left: 110px;
+}

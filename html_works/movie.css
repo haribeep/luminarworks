@@ -1,0 +1,25 @@
+.row{
+    background-color: aquamarine;
+    width:850px;
+    height:600px;
+    border:1px solid black;
+    
+    
+}
+.col{
+    width:400px;
+    height:500px;
+    border:1px solid red;
+    background-color: blue;
+    animation:expand 2s ease-in 1s 5;
+}
+@keyframes expand{
+    0%{
+        width:200px;
+
+    }
+    100%{
+      width:  700px;
+      background-color: red;
+    }
+}

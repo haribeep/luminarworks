@@ -1,0 +1,49 @@
+.nav{
+    background-color:darkgrey;
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+}
+.book{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.book1{
+    width:350px;
+    min-height:350px;
+    border:1px solid black;
+    padding-left:10px;
+    
+    
+    
+}
+#img1{
+    margin-top: 10px;
+}
+.half{
+    text-align: center;
+    
+}
+.book2{
+    width:350px;
+    min-height:350px;
+    border:1px solid black;
+    padding-left: 10px;
+    padding-top: 10px;
+
+
+}
+.alchemist{
+    text-align: center;
+}
+.book3{
+    width:350px;
+    min-height:350px;
+    border:1px solid black;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.rising{
+    text-align: center;
+}

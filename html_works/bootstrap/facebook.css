@@ -1,0 +1,16 @@
+h1{
+    color:#576b95;
+    font-weight: bold;
+    text-align: center;
+    font-family:Helvetica, Arial, sans-serif;
+    
+    line-height: 18px;
+}
+.cont{
+    width:300px;
+    margin-left: 470px;
+    padding-top: 20px;
+}
+#email{
+    width:300px;
+}
